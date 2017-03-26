@@ -8,6 +8,7 @@
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
+    <name>spring-boot-starter-jetbrick</name>
     <url>https://github.com/biezhi/spring-boot-starter-jetbrick</url>
     <description>spring-boot-starter-jetbrick</description>
 
